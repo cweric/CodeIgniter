@@ -37,6 +37,7 @@ Functions
 -  :php:func:`html_escape()`
 -  :php:func:`remove_invisible_characters()`
 -  :php:func:`is_https()`
+-  :php:func:`is_cli()`
 -  :php:func:`function_usable()`
 -  :php:func:`get_instance()`
 -  ``_error_handler()``
